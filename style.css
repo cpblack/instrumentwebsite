@@ -1,0 +1,99 @@
+.navbar ul {
+    list-style-type: none;
+    margin: 5px;
+    margin-left:10%;
+    margin-right:10%;
+    padding: 0;
+    overflow: hidden;
+    height:40px;
+    width:80%;
+    background-color: rgba(255, 230, 255,0.5);
+}
+#myName {padding-top:1%;margin:0px;}
+#myName p {
+    font-family: rubberBiscuit;
+    text-align:center;
+    font-size:4em;
+    text-shadow: 2px 2px 8px #E0E0E0;
+    color:#8f6aba;
+    margin:0px;
+    padding:0px;}
+.navbar ul li {
+    height:40px;
+    width:25%;
+    float: left;
+}
+
+.navbar ul li a {
+    font-family: Avant Garde,Avantgarde,Century Gothic,CenturyGothic,AppleGothic,sans-serif;
+    display:block;
+    float:center;
+    width:100%;
+    color: rgb(255, 153, 153);
+    text-align: center;
+    text-decoration: none;
+    font-size:200%;
+}
+.navbar ul li a:hover:not(.active) {
+    background-color: #cfe5f7;
+}
+
+.active {
+background-color:#ff87cf;
+}
+#main {
+    padding-left:1%;
+    padding-right:1%;
+    padding-top:1.5%;
+    padding-bottom:1.5%;
+    font-family: 'Prociono', serif;
+    align-items: center;
+    text-align:center;
+    color:rgb(255, 255, 204);
+    background-color:rgba(120,120,120,0.4);
+    bottom: 70px;
+    margin-left:10%;
+    margin-right:10%;
+    width:78%;a
+    padding-left:1%;
+}
+.hyperlink:link {
+    text-decoration: none;
+    color: #719987;
+}
+
+/* visited link */
+.hyperlink:visited {
+    text-decoration: none;
+    color: #719987;
+}
+
+/* mouse over link */
+.hyperlink:hover {
+    color: #719799;
+    text-decoration: underline;
+}
+
+/* selected link */
+.hyperlink:active {
+    color: #719799;a
+    text-decoration: underline;
+}
+body {
+    padding:0px;
+    margin:0px;
+    background-image: url("background.jpg");
+    background-size: cover;
+    /*background-repeat: no-repeat;*/
+    background-repeat: repeat;
+    background-position: top left;
+    background-size: 100px 100px;
+}
+.header {
+    font-size:1.3em;
+}
+@font-face {
+    font-family: rubberBiscuit;
+    src: url("RUBBBB__.TTF") format('truetype');
+}
+a
