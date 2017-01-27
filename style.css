@@ -35,7 +35,7 @@
     font-size:200%;
 }
 .navbar ul li a:hover:not(.active) {
-    background-color: #cfe5f7;
+    background-color: rgb(120,120,120);
 }
 
 .active {
