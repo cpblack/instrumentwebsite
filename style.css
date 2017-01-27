@@ -7,7 +7,7 @@
     overflow: hidden;
     height:40px;
     width:80%;
-    background-color: rgba(255, 230, 255,1);
+    background-color: rgba(50, 50, 50,1);
 }
 #title {padding-top:1%;margin:0px;}
 #title p {
@@ -54,7 +54,7 @@ background-color:#ff87cf;
     bottom: 70px;
     margin-left:10%;
     margin-right:10%;
-    width:78%;a
+    width:78%;
     padding-left:1%;
 }
 .hyperlink:link {
